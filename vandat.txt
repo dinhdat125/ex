@@ -149,4 +149,4 @@ git add .
 git commit -m "Task 111 add file exam.txt"
 git push origin HEAD:todo-app-exam
 
-NOTE: câu 16 đã được làm :)))
+NOTE: câu 16 có thể biết làm :)))
