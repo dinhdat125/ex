@@ -107,10 +107,6 @@ git push origin remote_branch -D
 
 là nhánh ở remote được fetch về local
 
-16. Detach HEAD là gì
-
-
-
 17. Phân biệt HEAD và BRANCH
 
 HEAD thì chỉ có duy nhất 1 HEAD, được trỏ đến branch hay commit bất kỳ
@@ -150,3 +146,5 @@ touch exam.txt
 git add .
 git commit -m "Task 111 add file exam.txt"
 git push origin HEAD:todo-app-exam
+
+NOTE: câu 16 k biết làm :)))
